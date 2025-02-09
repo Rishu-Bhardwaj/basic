@@ -3,18 +3,9 @@
 import java.util.Scanner;
 
 // Custom Exception for Book Not Available
-class BookNotAvailableException extends Exception {
-    public BookNotAvailableException(String message) {
-        super(message);
-    }
-}
 
 // Custom Exception for Invalid Operation
-class InvalidOperationException extends Exception {
-    public InvalidOperationException(String message) {
-        super(message);
-    }
-}
+
 
 // Library Class
 
